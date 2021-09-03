@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Learning cool things
 - 🌱 I’m currently learning ... Python, Linux, AWS
 - 💞️ I’m looking to collaborate on ... Anything !
-- 📫 How to reach me ... jacobherman1996@gmail.com
+- 📫 How to reach me ... twitter.com/jakeupherman
 
 <!---
 jakeupherman/jakeupherman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
